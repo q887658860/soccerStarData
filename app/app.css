@@ -1,0 +1,43 @@
+/* app css stylesheet */
+
+.body {
+ 
+}
+
+
+
+.player-thumb {
+	list-style: none;
+	border: 1px solid gray;
+	position: relative;
+	height: 50px;
+	margin-bottom: 5px;
+	cursor: pointer;
+}
+
+.player-thumb:hover {
+	background: gray;
+}
+
+.players-bar {
+	height: 50px;
+}
+
+.players-bar img {
+	display: inline-block;
+	height: 50px;
+}
+
+.players-bar .name {
+	display: inline-block;
+	padding-left: 100px;
+	height: 50px;
+	vertical-align: middle;
+}
+
+.overall {
+	display: inline-block;
+	vertical-align: middle;
+	float: right;
+	
+}

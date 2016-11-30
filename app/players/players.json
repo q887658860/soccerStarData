@@ -1,0 +1,66 @@
+[
+    {
+        "id": "lionel-messi", 
+        "imageUrl": "img/players/lionel-messi.0.png", 
+        "name": "Lionel Messi",
+        "nationality": "Argentina",
+        "nationalityImg": "argentina",
+        "club": "FC Barcelona",
+        "clubImg": "fc-barcelona",
+        "overall": 93,
+        "position": "RW",
+        "snippet": "Best player in the world"
+    },{
+        "id": "cristiano-ronaldo", 
+        "imageUrl": "img/players/cristiano-ronaldo.0.png", 
+        "name": "Cristiano Ronaldo",
+        "nationality": "Portugal",
+        "nationalityImg": "portugal",
+        "club": "Real Madrid",
+        "clubImg": "real-madrid",
+        "overall": 94,
+        "position": "LW"
+    },{
+        "id": "luis-suarez", 
+        "imageUrl": "img/players/luis-suarez.0.png", 
+        "name": "Luis Suarez",
+        "nationality": "Uruguay",
+        "nationalityImg": "uruguay",
+        "club": "FC Barcelona",
+        "clubImg": "fc-barcelona",
+        "overall": 92,
+        "position": "ST"
+    },{
+        "id": "neymar", 
+        "imageUrl": "img/players/neymar.0.png", 
+        "name": "Neymar",
+        "nationality": "Brazil",
+        "nationalityImg": "brazil",
+        "club": "FC Barcelona",
+        "clubImg": "fc-barcelona",
+        "overall": 92,
+        "position": "LW"
+    },{
+        "id": "jerome-boateng", 
+        "imageUrl": "img/players/jerome-boateng.0.png", 
+        "name": "Jerome-Boateng",
+        "nationality": "Germany",
+        "nationalityImg": "germany",
+        "club": "FC-Bayern-Munich",
+        "clubImg": "fc-bayern-munich",
+        "overall": 90,
+        "position": "CB"
+    },{
+        "id": "gareth-bale", 
+        "imageUrl": "img/players/gareth-bale.0.png", 
+        "name": "Gareth Bale",
+        "nationality": "Wales",
+        "nationalityImg": "wales",
+        "club": "Real Madrid",
+        "clubImg": "real-madrid",
+        "overall": 90,
+        "position": "RW"
+    }
+
+   
+]

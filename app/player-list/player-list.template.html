@@ -1,0 +1,21 @@
+<div class="player-search">
+	<input type="textarea" ng-model="$ctrl.query">
+	
+</div>
+
+<ul class="players">
+	<li class="player-thumb" ng-repeat="player in $ctrl.players | filter: $ctrl.query | orderBy: $ctrl.orderProp" >
+		<div class="players-bar">
+			<img class="nation" ng-src="img/nations/{{player.nationalityImg}}.png">
+			<img class="club" ng-src="img/clubs/{{player.clubImg}}.png">
+			<img class="player-avatar" ng-src="{{player.imageUrl}}">
+			<p class="name">{{player.name}}({{player.position}})</p>
+			<p class="overall">{{player.overall}}</p>
+		</div>
+		
+		
+		
+		
+		
+	</li>
+</ul>
