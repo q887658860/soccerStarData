@@ -11,6 +11,17 @@
         "position": "RW",
         "snippet": "Best player in the world"
     },{
+        "id": "kan-wu", 
+        "imageUrl": "img/players/kan-wu.0.png", 
+        "name": "Kan Wu",
+        "nationality": "United States",
+        "nationalityImg": "united-states",
+        "club": "FC Barcelona",
+        "clubImg": "fc-barcelona",
+        "overall": 99,
+        "position": "CAM",
+        "snippet": "Barca Barca"
+    },{
         "id": "cristiano-ronaldo", 
         "imageUrl": "img/players/cristiano-ronaldo.0.png", 
         "name": "Cristiano Ronaldo",
