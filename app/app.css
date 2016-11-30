@@ -1,11 +1,28 @@
 /* app css stylesheet */
 
-.body {
- 
+body {
+ 	padding: 20px;
 }
 
+/*player-list view*/
+.player-search {
+	position: relative;
+	text-align: center;
+	margin-left: 40px;
+}
+.player-search input{
+	height: 30px;
+	width: 60%;
+	text-align: center;
+}
 
+.player-address {
+	text-decoration: none;
+	color: black;
+}
+.players {
 
+}
 .player-thumb {
 	list-style: none;
 	border: 1px solid gray;
@@ -32,6 +49,7 @@
 	display: inline-block;
 	padding-left: 100px;
 	height: 50px;
+	margin: 0;
 	vertical-align: middle;
 }
 
@@ -39,5 +57,7 @@
 	display: inline-block;
 	vertical-align: middle;
 	float: right;
+	font-weight: bold;
+	color: rgb(218,165,32);
 	
 }
