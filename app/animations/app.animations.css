@@ -1,0 +1,67 @@
+
+/*transition between route*/
+
+.view-container {
+	position: relative;
+}
+
+.view-frame.ng-enter,
+.view-frame.ng-leave {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 0;
+}
+
+.view-frame.ng-enter {
+	animation: 1s fade-in;
+	z-index: 100;
+}
+@keyframes fade-in {
+	from { opacity: 0; }
+	to  { opacity: 1; }
+}
+
+.view-frame.ng-leave {
+	animation: 1s fade-out;
+	z-index: 99;
+}
+@keyframes fade-out {
+	from { opacity: 1; }
+	to  { opacity: 0; }
+}
+
+/*player-list view items*/
+
+.player-list-item.ng-enter,
+.player-list-item.ng-move,
+.player-list-item.ng-leave {
+	transition:  1.5s ease all;
+}
+
+.player-list-item.ng-enter,
+.player-list-item.ng-move {
+	height: 0;
+	opacity: 0;
+	overflow: hidden;
+}
+
+.player-list-item.ng-enter.ng-enter-active,
+.player-list-item.ng-move.ng-move-active {
+	height: 50px;
+	opacity: 1;
+	overflow: hidden;
+}
+
+
+.player-list-item.ng-leave {
+	height: 50px;
+	opacity: 1;
+}
+
+.player-list-item.ng-leave.ng-leave-active {
+	height: 0;
+	opacity: 0;
+}
+
+

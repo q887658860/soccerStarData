@@ -1,7 +1,7 @@
 <div class="player-info {{$ctrl.player.clubImg}}">
 	<img class="player-detail-avatar" ng-src="{{$ctrl.player.imageUrl}}">
 	<div class="player-detail-headline">
-		<h1 class="player-detail-name">{{$ctrl.player.name}}</h1>
+		<h1 class="player-detail-name">{{$ctrl.player.name | uppercase}}</h1>
 		<div class="player-detail-headline-second">
 			<img class="player-detail-nation" ng-src="img/nations/{{$ctrl.player.nationalityImg}}.png">
 			<p class="player-detail-bio">

@@ -93,6 +93,16 @@
         "overall": 89,
         "position": "ST",
         "birthday": "Jun 2, 1988"
+    },{
+        "id": "zlatan-ibrahimovic", 
+        "imageUrl": "img/players/zlatan-ibrahimovic.0.png", 
+        "name": "Zlatan Ibrahimovic",
+        "nationality": "Sweden",
+        "nationalityImg": "sweden",
+        "club": "Manchester United",
+        "clubImg": "manchester-united",
+        "overall": 90,
+        "position": "ST"
     }
 
    

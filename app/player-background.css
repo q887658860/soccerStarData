@@ -1,0 +1,31 @@
+.fc-barcelona {
+	background: white; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left, red , yellow); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, red, yellow); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, red, yellow); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, rgba(255, 0, 0, 0.73) , rgba(19, 31, 58, 1)); /* Standard syntax (must be last) */
+}
+
+.fc-bayern-munich {
+	background: white; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left, red , yellow); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, red, yellow); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, red, yellow); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, rgba(227, 26, 76, 0.9) , white); /* Standard syntax (must be last) */
+}
+
+.manchester-city {
+	background: rgba(109, 174, 233, 0.9);
+}
+
+.manchester-united {
+	background: rgba(239, 0, 0, 0.8);
+}
+
+.real-madrid {
+	background: white; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left, red , yellow); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, red, yellow); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, red, yellow); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, rgba(218, 213, 200, 1) , white); /* Standard syntax (must be last) */
+}

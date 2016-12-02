@@ -1,0 +1,15 @@
+{   
+    "id": "zlatan-ibrahimovic", 
+    "imageUrl": "img/players/zlatan-ibrahimovic.0.png", 
+    "name": "Zlatan Ibrahimovic",
+    "nationality": "Sweden",
+    "nationalityImg": "sweden",
+    "club": "Manchester United",
+    "clubImg": "manchester-united",
+    "overall": 90,
+    "position": "ST",
+    "birthday": "Oct 3, 1981",
+    "height": "6\u00275\u0022",
+    "weight": 209,
+    "birthday": "Jun 2, 1988"
+}

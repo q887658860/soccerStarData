@@ -5,7 +5,7 @@
 </div>
 
 <ul class="players-list">
-	<li class="player-thumb {{player.clubImg}}" ng-repeat="player in $ctrl.players | filter: $ctrl.query | orderBy: $ctrl.orderProp" >
+	<li class="player-thumb {{player.clubImg}} player-list-item" ng-repeat="player in $ctrl.players | filter: $ctrl.query | orderBy: $ctrl.orderProp" >
 		<a href="#!/players/{{player.id}}" class="player-address">
 			<div class="players-bar">
 				<img class="nation" ng-src="img/nations/{{player.nationalityImg}}.png">
