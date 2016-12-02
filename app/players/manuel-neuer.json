@@ -1,0 +1,14 @@
+{   
+    "id": "manuel-neuer", 
+    "imageUrl": "img/players/manuel-neuer.0.png", 
+    "name": "Manuel Neuer",
+    "nationality": "Germany",
+    "nationalityImg": "germany",
+    "club": "FC-Bayern-Munich",
+    "clubImg": "fc-bayern-munich",
+    "overall": 90,
+    "position": "GK",
+    "height": "6\u00274\u0022",
+    "weight": 203,
+    "birthday": "Mar 27, 1986"
+}

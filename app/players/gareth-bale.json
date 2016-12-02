@@ -1,0 +1,14 @@
+{   
+    "id": "gareth-bale", 
+    "imageUrl": "img/players/gareth-bale.0.png", 
+    "name": "Gareth Bale",
+    "nationality": "Wales",
+    "nationalityImg": "wales",
+    "club": "Real Madrid",
+    "clubImg": "real-madrid",
+    "overall": 90,
+    "position": "RW",
+    "height": "6\u00270\u0022",
+    "weight": 163,
+    "birthday": "Jul 16, 1989"
+}

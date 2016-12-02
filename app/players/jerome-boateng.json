@@ -1,0 +1,14 @@
+{   
+    "id": "jerome-boateng", 
+    "imageUrl": "img/players/jerome-boateng.0.png", 
+    "name": "Jerome Boateng",
+    "nationality": "Germany",
+    "nationalityImg": "germany",
+    "club": "FC-Bayern-Munich",
+    "clubImg": "fc-bayern-munich",
+    "overall": 90,
+    "position": "CB",
+    "height": "6\u00274\u0022",
+    "weight": 198,
+    "birthday": "Sep 3, 1988"
+}

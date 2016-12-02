@@ -1,0 +1,15 @@
+{   
+    "id": "kan-wu", 
+    "imageUrl": "img/players/kan-wu.0.png", 
+    "name": "Kan Wu",
+    "nationality": "United States",
+    "nationalityImg": "united-states",
+    "club": "FC Barcelona",
+    "clubImg": "fc-barcelona",
+    "overall": 99,
+    "position": "CAM",
+    "height": "5\u00277\u0022",
+    "weight": 160,
+    "birthday": "June 8, 1989",
+    "snippet": "Barca Fan"
+}

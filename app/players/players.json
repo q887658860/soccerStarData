@@ -9,6 +9,7 @@
         "clubImg": "fc-barcelona",
         "overall": 93,
         "position": "RW",
+        "birthday": "Jun 24, 1987",
         "snippet": "Best player in the world"
     },{
         "id": "kan-wu", 
@@ -54,7 +55,7 @@
     },{
         "id": "jerome-boateng", 
         "imageUrl": "img/players/jerome-boateng.0.png", 
-        "name": "Jerome-Boateng",
+        "name": "Jerome Boateng",
         "nationality": "Germany",
         "nationalityImg": "germany",
         "club": "FC-Bayern-Munich",
@@ -71,6 +72,27 @@
         "clubImg": "real-madrid",
         "overall": 90,
         "position": "RW"
+    },{
+        "id": "manuel-neuer", 
+        "imageUrl": "img/players/manuel-neuer.0.png", 
+        "name": "Manuel Neuer",
+        "nationality": "Germany",
+        "nationalityImg": "germany",
+        "club": "FC-Bayern-Munich",
+        "clubImg": "fc-bayern-munich",
+        "overall": 90,
+        "position": "GK"
+    },{
+        "id": "sergio-aguero", 
+        "imageUrl": "img/players/sergio-aguero.0.png", 
+        "name": "Sergio Aguero",
+        "nationality": "Argentina",
+        "nationalityImg": "argentina",
+        "club": "Manchester City",
+        "clubImg": "manchester-city",
+        "overall": 89,
+        "position": "ST",
+        "birthday": "Jun 2, 1988"
     }
 
    

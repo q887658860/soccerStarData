@@ -1,0 +1,14 @@
+{   
+    "id": "luis-suarez", 
+    "imageUrl": "img/players/luis-suarez.0.png", 
+    "name": "Luis Suarez",
+    "nationality": "Uruguay",
+    "nationalityImg": "uruguay",
+    "club": "FC Barcelona",
+    "clubImg": "fc-barcelona",
+    "overall": 92,
+    "position": "ST",
+    "height": "6\u00270\u0022",
+    "weight": 187,
+    "birthday": "Jan 24, 1987"
+}

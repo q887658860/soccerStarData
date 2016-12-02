@@ -1,10 +1,10 @@
 'use strict';
 
 // Declare app level module which depends on views, and components
-angular.module('myApp', [
+angular.module('soccerstarApp', [
   'ngRoute',
   'playerList',
-  // 'myApp.view2',
+  'playerDetail',
 ]).
 config(['$locationProvider', '$routeProvider', function($locationProvider, $routeProvider) {
   $locationProvider.hashPrefix('!');
@@ -12,6 +12,9 @@ config(['$locationProvider', '$routeProvider', function($locationProvider, $rout
   $routeProvider.
   when('/players', {
   	template: '<player-list></player-lsit>'
+  }).
+  when('/players/:playerId', {
+  	template: '<player-detail></player-detail>'
   }).
   otherwise({redirectTo: '/players'});
 }]);

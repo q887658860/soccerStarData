@@ -1,10 +1,11 @@
 <div class="player-search">
-	<input type="textarea" ng-model="$ctrl.query.name" placeholder="Search: input here">
+	<!-- <input type="textarea" ng-model="$ctrl.query.name" placeholder="Search: Name"> -->
+	<input type="textarea" ng-model="$ctrl.query" placeholder="Search: Club Nation or Name">
 	
 </div>
 
-<ul class="players">
-	<li class="player-thumb" ng-repeat="player in $ctrl.players | filter: $ctrl.query | orderBy: $ctrl.orderProp" >
+<ul class="players-list">
+	<li class="player-thumb {{player.clubImg}}" ng-repeat="player in $ctrl.players | filter: $ctrl.query | orderBy: $ctrl.orderProp" >
 		<a href="#!/players/{{player.id}}" class="player-address">
 			<div class="players-bar">
 				<img class="nation" ng-src="img/nations/{{player.nationalityImg}}.png">

@@ -1,0 +1,14 @@
+{   
+    "id": "neymar", 
+    "imageUrl": "img/players/neymar.0.png", 
+    "name": "Neymar",
+    "nationality": "Brazil",
+    "nationalityImg": "brazil",
+    "club": "FC Barcelona",
+    "clubImg": "fc-barcelona",
+    "overall": 92,
+    "position": "LW",
+    "height": "5\u00279\u0022",
+    "weight": 150,
+    "birthday": "Feb 5, 1992"
+}

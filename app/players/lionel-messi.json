@@ -1,0 +1,15 @@
+{   
+    "id": "lionel-messi", 
+    "imageUrl": "img/players/lionel-messi.0.png", 
+    "name": "Lionel Messi",
+    "nationality": "Argentina",
+    "nationalityImg": "argentina",
+    "club": "FC Barcelona",
+    "clubImg": "fc-barcelona",
+    "overall": 93,
+    "position": "RW",
+    "height": "5\u00277\u0022",
+    "weight": 159,
+    "birthday": "Jun 24, 1987",
+    "snippet": "Best player in the world"
+}

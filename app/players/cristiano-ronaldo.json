@@ -1,0 +1,14 @@
+{   
+    "id": "cristiano-ronaldo", 
+    "imageUrl": "img/players/cristiano-ronaldo.0.png", 
+    "name": "Cristiano Ronaldo",
+    "nationality": "Portugal",
+    "nationalityImg": "portugal",
+    "club": "Real Madrid",
+    "clubImg": "real-madrid",
+    "overall": 94,
+    "position": "LW",
+    "height": "6\u00271\u0022",
+    "weight": 176,
+    "birthday": "Feb 5, 1985"
+}
